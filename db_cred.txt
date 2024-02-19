@@ -1,0 +1,3 @@
+host: sqlgyak.database.windows.net
+pw: Password123
+db: sqlgyak

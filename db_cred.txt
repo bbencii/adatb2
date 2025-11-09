@@ -1,4 +1,4 @@
-host: sqlgyak.database.windows.net
+host: sqlgyak.database.windows.com
 pw: Password123
 db: sqlgyak
 

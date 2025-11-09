@@ -4,3 +4,5 @@ db: sqlgyak
 
 git config --global user.name bbencii
 git config --globals user.email bence20030108@gmail.com
+
+pull request teszt

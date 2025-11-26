@@ -4,3 +4,10 @@ db: sqlgyak
 
 git config --global user.name bbencii
 git config --globals user.email bence20030108@gmail.com
+
+<<<<<<< HEAD
+REBASE PR TESZT ES MODOSITOM IS
+=======
+REBASE PR TESZT ES MODOSITOM
+TESZT
+>>>>>>> f1eec2e (XD2)

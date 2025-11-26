@@ -10,4 +10,8 @@ REBASE PR TESZT ES MODOSITOM IS
 =======
 REBASE PR TESZT ES MODOSITOM
 TESZT
+<<<<<<< HEAD
 >>>>>>> f1eec2e (XD2)
+=======
+333333
+>>>>>>> 58bda4a (XD3)
